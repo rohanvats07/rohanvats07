@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Software Developer Engineer**
 
-- 📫 How to reach me **rohan131178@gmail.com**
+- 📫 Reach me @ **rohan131178@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rgfJxXZZVNkg9iZCMCBCLLvzeSL7C1aJ/view?usp=sharing](https://drive.google.com/file/d/1rgfJxXZZVNkg9iZCMCBCLLvzeSL7C1aJ/view?usp=sharing)
 
