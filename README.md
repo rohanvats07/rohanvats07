@@ -140,31 +140,6 @@ class RohanVats:
       <b>🏁 50+ active users · sub-2s page loads · 95%+ mobile responsive.</b>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rohanvats07/Time_Table_Generator">🗓️ Time Table Generator</a></h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <p>Automatic timetable generation modelled as a <b>Constraint Satisfaction Problem</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rohanvats07/Backend-Test">🧪 Backend Test</a></h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <p>Backend assignment built for a Backend Intern role application at EZ.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rohanvats07/Spotify_Clone">🎵 Spotify Clone</a></h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <p>Web app recreating core Spotify UI and functionality with HTML and CSS.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rohanvats07/Bookshop_Management_system">📚 Bookshop Management System</a></h3>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <p>Console-based bookshop manager in C++ using file handling for persistence.</p>
-    </td>
-  </tr>
 </table>
 
 <div align="center">
